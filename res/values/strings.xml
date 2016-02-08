@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentContacts</string>
+    <string name="title_section1">Agenda</string>
+    <string name="title_section2">Contacts</string>
+    <string name="title_section3">Messagerie</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="name"/>
+    <string name="phone"/>
+    <string name="afficheList">Afficher Contacts</string>
+    <string name="privatecontacts">Contacts Téléphone</string>
+    <string name="back">Retour</string>
+	<string name="add">Ajouter Contacts</string>
+	<string name="newcontact">Nouveau Contact</string>
+	<string name="newname">Entrez le nom :</string>	
+	<string name="nameHint">Nom ?</string>
+	<string name="newphone">Entrez le numéro de téléphone :</string>
+	<string name="phoneHint">Numéro ?</string>
+	<string name="button4">Ajouter Contact</string>
+	<string name="imageView1"></string>
+
+</resources>
